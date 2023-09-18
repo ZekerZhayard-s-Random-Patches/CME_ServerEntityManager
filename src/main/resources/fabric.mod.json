@@ -1,0 +1,16 @@
+{
+    "schemaVersion": 1,
+    "id": "cme_serverentitymanager",
+    "version": "${version}",
+    "name": "CME_ServerEntityManager",
+    "description": "",
+    "authors": [
+        "ZekerZhayard"
+    ],
+    "contact": {},
+    "license": "All-Rights-Reserved",
+    "environment": "*",
+    "mixins": [
+        "cme_serverentitymanager.mixins.json"
+    ]
+}

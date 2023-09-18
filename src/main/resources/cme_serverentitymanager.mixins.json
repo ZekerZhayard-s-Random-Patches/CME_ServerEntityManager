@@ -1,0 +1,9 @@
+{
+  "minVersion": "0.8",
+  "package": "io.github.zekerzhayard.cme_serverentitymanager.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinTypeFilterableList"
+  ],
+  "plugin": "io.github.zekerzhayard.cme_serverentitymanager.MixinConfigPlugin"
+}
